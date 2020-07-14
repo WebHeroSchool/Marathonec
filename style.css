@@ -21,7 +21,7 @@ h1 {
 
 aside {
   width: 25%;
-  background: #DCDCDC;
+  background: #dcdcdc;
   text-align: center;
   height: 100%;
   padding: 15px 20px;
@@ -46,7 +46,7 @@ article {
 
 footer {
   display: flex;
-  margin: -100px 350px 0px 470px;
+  margin: -100px 350px 0 470px;
   padding: 5px;
   background: yellow;
 }
